@@ -1117,3 +1117,19 @@ Recommend Business Actions
 The project will prioritize practical, explainable analytics and genuine business value over unnecessary technical complexity.
 
 All reported results will be based on actual analysis performed during the project.
+---
+
+## Dashboard Preview
+
+### 1. Home Dashboard
+![Home Dashboard](06_Screenshots/01_home.png)
+
+### 2. Sales Analysis
+![Sales Analysis](06_Screenshots/04_sales_analysis.png)
+
+### 3. Returns Analysis
+![Returns Analysis](06_Screenshots/08_returns_analysis.png)
+
+### 4. Customer Intelligence
+![Customer Intelligence](06_Screenshots/10_customer_intelligence.png)
+
